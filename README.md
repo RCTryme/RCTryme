@@ -4,7 +4,7 @@
 
   
 
-<p  align="left">  <a  href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=rctryme&theme=juicyfresh"  alt="rctryme"  /></a>  </p>
+<p  align="left">  <a  href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=RCTryme&theme=juicyfresh"  alt="rctryme"  /></a>  </p>
 
   
 
